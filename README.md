@@ -22,6 +22,6 @@
 
 ## Setup
 To run this project, following these instructions: 
-* Clone repository to your desktop or download the file as a zip 
+* Clone repository to your desktop or download the file as a zip (extract the zip once downloaded)
 * Open NDVR in Unity 
 * Hit the play button at the top of unity. (Make sure you have your VR ready before hitting play)
